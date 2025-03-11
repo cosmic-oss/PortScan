@@ -18,6 +18,11 @@ Este é um simples scanner de portas escrito em C. Ele escaneia o IP alvo especi
 
 Obs: O conhecimento em redes é necessário apenas para quem for editar o código ou entender como ele funciona.
 
+# Compile o código:
+Código em Português: gcc -o portscanner_pt portscanner_pt.c
+
+Code in English: gcc -o portscanner_en portscanner_en.c
+
 # Como Compilar e Rodar
 1. Clone o repositório: git clone https://github.com/cosmic-oss/PortScan
 
