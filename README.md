@@ -24,9 +24,9 @@ Obs: O conhecimento em redes é necessário apenas para quem for editar o códig
 2. Navegue até o diretório do projeto: cd PortScan
 
 # Compile o código:
-Código em Português: gcc -o portscan_pt portscan_pt.c
+Código em Português: gcc portscan_pt.c -o portscan_pt
 
-Code in English: gcc -o portscan_en portscan_en.c
+Code in English: gcc portscan_en.c -o portscan_en
 
 # Rode o Scanner:
 
