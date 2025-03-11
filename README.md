@@ -28,13 +28,12 @@ Código em Português: gcc portscan_pt.c -o portscan_pt
 
 Code in English: gcc portscan_en.c -o portscan_en
 
-# Aviso:
-
-Este código é apenas para fins educacionais. Não me responsabilizo por seus atos.
-
 # Rode o Scanner:
 
 Português: ./portscan_pt
 
 Inglês: ./portscan_en
 
+# Aviso:
+
+Este código é apenas para fins educacionais. Não me responsabilizo por seus atos.
