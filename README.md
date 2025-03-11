@@ -4,12 +4,17 @@ Este é um simples scanner de portas escrito em C. Ele escaneia o IP alvo especi
 
 # Funcionalidades
 ° Escaneia um intervalo de portas (limite definido pelo usuário).
+
 ° Exibe as portas abertas.
+
 ° Escrito em C utilizando programação de sockets.
 
 # Requisitos
 ° Um compilador C (por exemplo, GCC).
+
 ° Um sistema operacional do tipo Unix (Linux, macOS, etc.) para testes.
+
 ° Conhecimento básico de redes e como o protocolo TCP/IP funciona.
+
 Obs: O conhecimento em redes é necessário apenas para quem for editar o código ou entender como ele funciona.
 
