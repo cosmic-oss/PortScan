@@ -26,9 +26,8 @@ Obs: O conhecimento em redes é necessário apenas para quem for editar o códig
 # Compile o código:
 Código em Português: gcc -o portscan_pt portscan_pt.c
 
+Code in English: gcc -o portscan_en portscan_en.c
+
 # Rode o Scanner:
 
 ./portscanner
-
-
-Code in English: gcc -o portscan_en portscan_en.c
