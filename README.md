@@ -19,4 +19,6 @@ Este é um simples scanner de portas escrito em C. Ele escaneia o IP alvo especi
 Obs: O conhecimento em redes é necessário apenas para quem for editar o código ou entender como ele funciona.
 
 # Como Compilar e Rodar
-1. Clone o repositório: git clone https://github.com/cosmic-oss/port-scanner.git
+1. Clone o repositório: git clone https://github.com/cosmic-oss/PortScan
+
+2. Navegue até o diretório do projeto: cd PortScan
