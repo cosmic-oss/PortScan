@@ -34,19 +34,3 @@ Português: ./portscan_pt
 
 Inglês: ./portscan_en
 
-Exemplo de uso:
-
-HOST: 192.168.1.1
-
-LIMITE DE PORTAS: 100
-
-=======================[Varrendo host 192.168.1.1]=======================
-
-21 - status ABERTA.
-
-22 - status ABERTA.
-
-80 - status ABERTA.
-
-=======================[By: cosmic]=============================
-
