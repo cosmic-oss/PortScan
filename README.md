@@ -30,7 +30,10 @@ Code in English: gcc -o portscan_en portscan_en.c
 
 # Rode o Scanner:
 
-./portscanner
+Português: ./portscan_pt
+
+Inglês: ./portscan_en
+
 Exemplo de uso:
 
 HOST: 192.168.1.1
